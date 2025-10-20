@@ -1,3 +1,4 @@
-# GreenEnery  
+# GreenEnergy  
 
-[EXOWATT]() : Sun focus to heat bricks and power a Sterling Engine to produce electricty  
+[EXOWATT]() : Sun focus to heat bricks and power a Sterling Engine to produce electricty   
+[SOLDESAL Australia](https://soldesal.energy/) : Zero-Emission Desalination and Baseload Power Source - Empowering remote areas with sustainable energy and water  
