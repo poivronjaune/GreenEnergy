@@ -5,4 +5,4 @@
 
 
 # Motor technology  
-[C-Motive Motors](https://c-motive.com/) : High Torque throug voltage rather than Current
+[C-Motive Motors](https://c-motive.com/) : High Torque throug voltage rather than Current (Static Electricity to produce Motion)
