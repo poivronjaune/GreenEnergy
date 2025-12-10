@@ -4,6 +4,8 @@
 [SOLDESAL Australia](https://soldesal.energy/) : Zero-Emission Desalination and Baseload Power Source - Empowering remote areas with sustainable energy and water  
 [Plug Flow](https://www.youtube.com/watch?v=gYDr-uvl4wc) : Generating Renewable Electricity With Water Using the Debye Length  
 
+[Osmotic Power](https://earth.org/osmotic-power-the-next-wave-of-renewable-energy/) : Combining Salt Water and Fresh Water from desalination!
+
 
 
 # Motor technology  
