@@ -11,3 +11,10 @@
 # Motor technology  
 [C-Motive Motors](https://c-motive.com/) : High Torque throug voltage rather than Current (Static Electricity to produce Motion)
 
+
+# Batteries. 
+[Donut Labs Production Solid State Batteries](https://share.google/Q2BD4giDCRxMFRQYI). 
+
+
+
+
